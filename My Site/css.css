@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: Roboto;
+}
+
+.class{
+    background-color: #EAF6F6;
+    font-family: Brush Script MT;
+}
+h1{
+    margin-top: 0;
+    font-family: Brush Script MT;
+}
+h2{
+    text-align: center;
+    font-family: monospace;
+    font-size: 35PX;
+    color:#66bfbf ;
+}
+body{
+    margin: 0;
+  
+    background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:#66bfbf;
+}
+p{
+    text-align: center;
+    font-size: 20PX;
+}
+.c1{
+    margin-top: 70px;
+    margin-left: 300px;
+}
+.c2{
+    margin-top: 35px;
+margin-right: 300px;
+}
+.m1{
+   margin-left: auto;
+   margin-right: 34%;
+   display: block;
+
+   
+}
+span{
+    text-decoration: underline;
+}
+/* first part */
+.first-part{
+    margin-left: auto;
+    margin-right: auto;
+}
+#myface{
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+    margin-top: 60px;
+    margin-left: 43%;
+    margin-bottom: 35PX;
+    border-radius: 50%;
+   
+}
+hr{
+    border-style: dotted none none;
+        width: 100px;
+        border-width: 15px;
+        border-color: lightgray
+}
+/* end */
+/* second part */
+.second-part{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.second-part{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#sh3{
+    color:#66bfbf;
+    margin-left: 34px;
+    padding-bottom: 15px;
+}
+#text
+{
+text-align: left;
+padding-left: 2vw;
+}
+/* end */
+
+/* third part */
+/* end */
+
+/* get in touch */
+.get-in-touch{
+    margin-top: 90px;
+}
+#th3{
+    text-align: center;
+    color: #11999e;
+}
+button{
+    margin-top: 23px;
+    margin-left: 46%;
+    padding: 9px 15px;
+    background-color: #11999e;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* end */
+/* footer */
+.footer{
+    text-align: center;
+    text-decoration: none;
+    background-color: #66bfbf;
+    color: #0c7074;
+    font-size: 20px;
+    height: 140px;
+    width: 100%;
+    margin-top: 40px;
+
+  
+}
+#logo1{
+    border-radius: 35%;
+}
+
+#fp{
+    color:#EAF6F6;
+    margin-top: 20px;
+}
+
+.link {
+    padding-top: 30px;
+    
+    margin-top: 30px;
+   
+    
+}
+.link a{
+    text-decoration: none;
+        color: #0c7074;
+        padding-left: 20px;
+}
